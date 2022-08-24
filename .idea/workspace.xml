@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="095d770d-ea99-4b1b-9817-c70ab42a3545" name="Changes" comment="Adding test code">
-      <change afterPath="$PROJECT_DIR$/key.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testPhotos/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testPhotos/oppie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testPhotos/oppie_cropped.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testPhotos/test1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testPhotos/text01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testPhotos/text01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testingGoogleVision.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testWebCam.py" beforeDir="false" afterPath="$PROJECT_DIR$/testWebCam.py" afterDir="false" />
+    <list default="true" id="095d770d-ea99-4b1b-9817-c70ab42a3545" name="Changes" comment="Added test files. Added test script for reading text using google vision api">
+      <change afterPath="$PROJECT_DIR$/gcloud_commands" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661127659279</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added test files. Added test script for reading text using google vision api">
+      <created>1661315981234</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661315981235</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +147,7 @@
     <MESSAGE value="Initial branch commit" />
     <MESSAGE value="Adding python file" />
     <MESSAGE value="Adding test code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding test code" />
+    <MESSAGE value="Added test files. Added test script for reading text using google vision api" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added test files. Added test script for reading text using google vision api" />
   </component>
 </project>

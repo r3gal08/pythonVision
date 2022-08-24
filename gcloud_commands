@@ -1,0 +1,5 @@
+gcloud config set account brettleard808@gmail.com
+gcloud init
+gcloud  services enable vision.googleapis.com
+PROJECT_ID=$(gcloud config get-value core/project)
+export GOOGLE_APPLICATION_CREDENTIALS=./key.json
